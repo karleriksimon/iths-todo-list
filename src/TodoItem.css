@@ -1,0 +1,22 @@
+.Item {
+    border: 1px solid rgba(128, 128, 128, 0.61);
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+.Item-Header {
+    display: flex;
+    align-items: center;
+}
+
+.Item-Status {
+    margin-left: auto;
+    border-radius: 50px;
+    font-size: 0.8rem;
+    padding: 4px 15px;
+    background-color: red;
+}
+
+.Item-Controls {
+
+}
